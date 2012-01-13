@@ -2,16 +2,16 @@
 
 NETWORK = 'irc.freenode.net'
 PORT = 6667
-CHANNEL = '#django-cms'
-NICKNAME = 'CMSBot'
+CHANNEL = '#django-hvad'
+NICKNAME = 'VikingBot'
 PLUGINS = [
     'plugins.faq.FAQ',
     'plugins.issues.Issues',
     'plugins.update.Update',
 ]
 
-GITHUB_USER = 'divio'
-GITHUB_PROJECT = 'django-cms'
+GITHUB_USER = 'KristianOellegaard'
+GITHUB_PROJECT = 'django-hvad'
 WEBHOOKS = True
 WEBHOOK_PORT = 9876
 
