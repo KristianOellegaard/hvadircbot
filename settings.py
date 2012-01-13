@@ -13,5 +13,5 @@ PLUGINS = [
 GITHUB_USER = 'KristianOellegaard'
 GITHUB_PROJECT = 'django-hvad'
 WEBHOOKS = True
-WEBHOOK_PORT = 9876
+WEBHOOK_PORT = 9889
 
